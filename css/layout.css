@@ -1,1 +1,9 @@
-floats
+
+
+@media (min-width: 960px) {
+    .a {
+      width: 100%;
+      margin:0 auto;
+    }
+  
+}
